@@ -1,0 +1,8 @@
+(if not work create file with 
+import webview
+window = webview.create_window('eaglercraft 1.12.2', 'http://localhost:1302')
+webview.start()
+and open server 
+1.server.py
+2.webview.py
+or open file start webview)
